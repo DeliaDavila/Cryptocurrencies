@@ -21,11 +21,10 @@ Unsupervised learning is used to sort through data and suggest groupings, but th
 
 The company can then use the model to made decisions about how to select cryptocurrencies for inclusion into their crypto portfolio.
 
-### Results and suggestions
-For the initial unsupervised learning, we chose to use 4 groups. 
-Note: 
-
+## Results and suggestions
 One initial finding that is evident from this initial pass is a significant outlier in the data, represented in the model by a red X. This currency is BitTorrent, which is not commonly known as a cryptocurrency so might best be removed from the dataset. The points represented in the model by purple squares might also be investigated as potential outliers.
 
-To reach the goal of understanding how the cryptocurrency market should be split, there are several additional steps that could be taken. Additional models could be run with certain segments of data removed, to determine if the number of logical groups changes. Once groups have been investigated, data analysts can examine the groups of data to come up with theories of how these groups occur and what drives the differences. They can then train and fit algorithms to run supervised machine learning. Algorithms are again trained to determine whether they accurately predict further data. Theories can be tested and proved or disproved until a working model is established. The company can then use the model to made decisions about how to select cryptocurrencies for inclusion into their crypto portfolio
+Once the suggested groupings have been looked at by analysts, they will have a sense of whether the groupings are logical or incidental, as explained above. The unsupervised learning could be run again with an increased number of groups. This may allow for some theories to be come more evident. 
+
+Data analysts will set up theories, then run supervised machine learning to determine whether they accurately predict further data. Theories can be tested and proved or disproved until a working model is established. The company can then use the model to made decisions about how to select cryptocurrencies for inclusion into their crypto portfolio
 
