@@ -1,3 +1,14 @@
+#starter and module code
+misc/*.ipynb
+
+#module output
+Output/*.csv
+
+#module input
+Resources/iris.csv
+Resources/shopping_data.csv
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
