@@ -26,5 +26,5 @@ One initial finding that is evident from this initial pass is a significant outl
 
 Once the suggested groupings have been looked at by analysts, they will have a sense of whether the groupings are logical or incidental, as explained above. The unsupervised learning could be run again with an increased number of groups. This may allow for some theories to be come more evident. 
 
-Data analysts will set up theories, then run supervised machine learning to determine whether they accurately predict further data. Theories can be tested and proved or disproved until a working model is established. The company can then use the model to made decisions about how to select cryptocurrencies for inclusion into their crypto portfolio
+Data analysts will set up theories, then run supervised machine learning to determine whether they accurately predict further data. Theories can be tested and proved or disproved until a working model is established. The company can then use the model to made decisions about how to select cryptocurrencies for inclusion into their crypto portfolio.
 
